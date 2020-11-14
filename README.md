@@ -1,1 +1,1 @@
-# clojure-game-of-life
+# game_of_life
